@@ -1,6 +1,6 @@
-# 时间：2024年5月16日  Date： May 16, 2024
-# 文件名称 Filename： 03-main.py
-# 编码实现 Coding by： Yunfei Gui, Jinhuan Luo 邮箱 Mailbox：redsocks1043@163.com
+# 时间：2024年6月6日  Date： June 6, 2024
+# 文件名称 Filename： BaggingRegressor.py
+# 编码实现 Coding by： Wenmei Jian, QiPing Xu  
 # 所属单位：中国 成都，西南民族大学（Southwest University of Nationality，or Southwest Minzu University）, 计算机科学与工程学院.
 # 指导老师：周伟老师
 
