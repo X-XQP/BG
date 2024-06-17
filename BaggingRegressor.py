@@ -1,6 +1,6 @@
 # 时间：2024年6月6日  Date： June 6, 2024
 # 文件名称 Filename： BaggingRegressor.py
-# 编码实现 Coding by： Wenmei Jian, QiPing Xu  
+# 编码实现 Coding by：Xu QiPing, Jian Wenmei  
 # 所属单位：中国 成都，西南民族大学（Southwest University of Nationality，or Southwest Minzu University）, 计算机科学与工程学院.
 # 指导老师：周伟老师
 
